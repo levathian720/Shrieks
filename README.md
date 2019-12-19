@@ -1,0 +1,2 @@
+# Shrieks
+Coin Currency
